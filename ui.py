@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 31 17:27:12 2019
-@author: Lenovo
-"""
 
 import tkinter as tk
 from tkinter.ttk import *

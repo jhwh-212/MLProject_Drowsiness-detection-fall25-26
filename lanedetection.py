@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 16 00:26:05 2019
 
-@author: Lenovo
-"""
 import matplotlib.pylab as plt
 import cv2
 import numpy as np
